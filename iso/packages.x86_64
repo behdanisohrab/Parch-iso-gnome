@@ -149,7 +149,7 @@ unrar
 vulkan-radeon
 
 #gnomepackeges
-parch-gnome-meta
+gnome
 
 #systemutils
 btop
